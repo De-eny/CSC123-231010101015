@@ -1,0 +1,23 @@
+Q2
+What Makes a Software Open Source?
+1.Access to Source Code: The source code is freely accessible to anyone. This allows developers to understand how the software works, fix bugs, or improve it.
+
+2.freedom to Modify: Users can modify the code to suit their needs or improve the software, without seeking permission from the original authors.
+
+3.Redistribution: The software and its modifications can be redistributed. This means users can share the original or modified versions of the software with others.
+
+4.Licensing: Open-source software is typically distributed under an open-source license, which defines the rules for how the software can be used, modified, and shared. Popular open-source licenses include the GNU General Public License (GPL), Apache License, and MIT License.
+
+5.Community-driven Development: Open-source projects are often developed collaboratively by a community of contributors, rather than being controlled by a single company or individual. This can lead to rapid innovation and improvements.
+
+ii.list five motivations of open source developer's participation
+1.Skill Development: Contributing to open-source projects helps developers improve their coding skills, learn new technologies, and gain real-world experience. It's an opportunity to build a strong portfolio and stay up-to-date with industry best practices.
+
+2.Collaboration and Community: Many developers participate in open source because they enjoy working with a community of like-minded individuals. The collaboration fosters learning, networking, and building relationships with other developers around the world.
+
+3.Passion for the Project or Cause: Developers often contribute to open-source projects they are passionate about, whether it's a specific tool, framework, or solving a problem they care deeply about. This intrinsic motivation drives them to improve the software for the benefit of others.
+
+4.Giving Back to the Community: Some developers participate in open source to give back to the community or to the ecosystem that has helped them grow. They contribute to projects that they have benefited from, hoping to help others in the same way.
+
+5.Recognition and Career Opportunities: Contributing to open-source projects can increase a developer's visibility in the tech community, showcasing their skills and expertise. This can lead to career opportunities, job offers, or invitations to work on high-profile projects.
+
